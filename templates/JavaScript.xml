@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="tryc" value="  try {&#10;&#10;          } catch (err) {&#10;&#10;          }" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

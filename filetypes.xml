@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="sphp" type="AUTO_DETECTED" />
+      <mapping pattern=".prettier" type="PLAIN_TEXT" />
+      <mapping pattern=".gitigore" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
