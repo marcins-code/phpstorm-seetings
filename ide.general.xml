@@ -1,6 +1,8 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Websites" />
     <option name="processCloseConfirmation" value="DISCONNECT" />
   </component>
 </application>
