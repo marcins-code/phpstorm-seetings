@@ -1,13 +1,6 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
     <interpreter node-remote-interpreter="docker-compose://[/Users/marcin/Library/Mobile Documents/com~apple~CloudDocs/Sites/my_blog/docker-compose.yaml]:backend/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Local Docker" DOCKER_COMPOSE_SERVICE_NAME="backend" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
-      <PathMappingSettings>
-        <option name="pathMappings">
-          <list>
-            <mapping local-root="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Sites/my_blog" remote-root="/opt/project" />
-          </list>
-        </option>
-      </PathMappingSettings>
       <dockerComposeConfigurationPaths>
         <item value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Sites/my_blog/docker-compose.yaml" />
       </dockerComposeConfigurationPaths>
