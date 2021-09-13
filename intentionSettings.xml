@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Numbers/Flip operands of an arithmetic operation" />
+  </component>
+</application>
