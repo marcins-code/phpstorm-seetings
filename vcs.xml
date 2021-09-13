@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/marcins-code/express-react-ts-bundle" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/marcins-code/node-express-typescript-bundle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
