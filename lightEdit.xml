@@ -1,7 +1,12 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Downloads/multi-01-starting-setup/backend/app.js" />
+      </list>
+    </option>
     <option name="frameInfo">
-      <frame x="260" y="75" width="1400" height="1000" />
+      <frame x="202" y="76" width="1400" height="1000" />
     </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
