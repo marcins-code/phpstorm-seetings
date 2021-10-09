@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/marcins-code/express-react-ts-bundle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/leerob/next-prisma.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites/interview-questions" />
+    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
