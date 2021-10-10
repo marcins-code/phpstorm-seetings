@@ -5,4 +5,11 @@
     <option name="defaultProjectDirectory" value="$USER_HOME$/Sites" />
     <option name="processCloseConfirmation" value="DISCONNECT" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Position" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
