@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/leerob/next-prisma.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/StevenCreates/tailwind-theme-changer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Sites" />
