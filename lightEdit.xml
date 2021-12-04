@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file://$USER_HOME$/Downloads/multi-01-starting-setup/backend/app.js" />
+        <option value="file://$USER_HOME$/Databases/mssql/docker-compose.yml" />
       </list>
     </option>
     <option name="frameInfo">
